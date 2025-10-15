@@ -1,5 +1,4 @@
--- Script SQL para crear la BD y tablas (Hotel)
--- Ejecutar como superusuario postgres (psql -U postgres)
+
 CREATE DATABASE hotel;
 \c hotel
 -- Tablas
